@@ -23,5 +23,5 @@
      Data successfully appended.
 
      Final content of output.txt:
-     Hello, Pyhton!
-     Learning file handling in Pyhton.
+     Hello, Python!
+     Learning file handling in Python.
