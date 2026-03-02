@@ -1,6 +1,7 @@
                                             ASSIGNMENT 4 : Files, Exceptions and Errors in Python.
 
 1. Task 1 is about to check whether the 'sample.txt' file is present or not.
+   The program of task 1 is present in the t7.py.
    First we have to create the 'sample.txt' and add the data into it.
    If file is present, then we have to read the data or contents present in the sample.txt file.
    The output would be :
@@ -13,7 +14,8 @@
      The output would be :
        OSError: The file 'sample.txt' was not found.     # Using OS module.
 
-3. Task 2 is about adding or append the data which is taken from the user into the 'output.txt' file and display the data in the output.txt file.
+2. Task 2 is about adding or append the data which is taken from the user into the 'output.txt' file and display the data in the output.txt file.
+   The program of task 2 is present in the t8.py.
    The output would be :
    
      Enter text to write to the file: Hello, Python!
