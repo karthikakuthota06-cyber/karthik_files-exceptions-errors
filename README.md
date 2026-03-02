@@ -8,8 +8,9 @@
      Reading file content:
      Line 1: This is a sample text file.
      Line 2: It contains multiple items.
+   
    If the file is not present or found :
-     The eoutput would be :
+     The output would be :
        OSError: The file 'sample.txt' was not found.     # Using OS module.
 
 3. Task 2 is about adding or append the data which is taken from the user into the 'output.txt' file and display the data in the output.txt file.
@@ -18,7 +19,7 @@
      Enter text to write to the file: Hello, Python!
      Data successfully written to output.txt.
 
-     Enter additiona text to append: Learning file handling in Python.
+     Enter additional text to append: Learning file handling in Python.
      Data successfully appended.
 
      Final content of output.txt:
